@@ -1,0 +1,1 @@
+# Chrome extension that adds a shortcut to Translate.goog's translation page to the context menu
