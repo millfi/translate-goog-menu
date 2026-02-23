@@ -1,11 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Translate.goog Context Menu",
-  "version": "0.1.0",
-  "description": "Open current page via <domain>.translate.goog from context menu.",
-  "permissions": ["contextMenus", "tabs"],
-  "host_permissions": ["<all_urls>"],
-  "background": {
-    "service_worker": "background.js"
-  }
+  "name": "Open with Google Translate",
+  "version": "1.0.0",
+  "permissions": ["contextMenus"],
+  "background": { "service_worker": "background.js" }
 }
